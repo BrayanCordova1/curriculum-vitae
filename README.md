@@ -1,3 +1,3 @@
 # curriculum-vitae
 
-[Curriculum Vitae](https://github.com/BrayanCordova1/curriculum-vitae)
+[Roadmad.sh](https://roadmap.sh/projects/single-page-cv)
